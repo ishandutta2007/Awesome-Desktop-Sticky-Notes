@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Sticky-Notes/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Sticky-Notes?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Desktop-Sticky-Notes/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Desktop-Sticky-Notes?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Sticky-Notes/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Desktop-Sticky-Notes?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Desktop-Sticky-Notes/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Desktop-Sticky-Notes?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -60,7 +60,7 @@ This repository tracks notable **commercial SaaS apps** and production-ready **o
 
 Below is a collection of open-source sticky notes repositories and desktop note utilities, sorted by GitHub stargazers count (descending).
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 |:---|:---|:---:|
 | **[Notes (nuttyartist)](https://github.com/nuttyartist/notes)** 🟦 | **Fast and beautiful note-taking app written in C++.** Native Qt desktop app featuring **Markdown support**, folders, tags, **Kanban board view**, feed view, and customizable themes. Summon instantly via `Win+Shift+N`. Completely private with zero telemetry. **GPL-3.0** | [![Stars](https://img.shields.io/github/stars/nuttyartist/notes?style=social&color=white)](https://github.com/nuttyartist/notes/stargazers) |
 | **[Scratch](https://github.com/erictli/scratch)** 🟩 | **Minimalist, offline-first Markdown note-taking app.** **Notes stored as plain `.md` files on local disk**. WYSIWYG editing, Mermaid diagrams, KaTeX math rendering, wikilinks, slash commands, and focus mode. Integrates AI editing via local Ollama, Claude Code, or OpenAI. Git sync support. **MIT** | [![Stars](https://img.shields.io/github/stars/erictli/scratch?style=social&color=white)](https://github.com/erictli/scratch/stargazers) |
